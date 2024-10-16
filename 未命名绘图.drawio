@@ -12,12 +12,14 @@
             <mxPoint x="330" y="410" as="sourcePoint" />
             <mxPoint x="490" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="190" />
+              <mxPoint x="400" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_gRvz2yE6ncRrnQPeoz6-4" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="_gRvz2yE6ncRrnQPeoz6-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-35" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_gRvz2yE6ncRrnQPeoz6-5" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="_gRvz2yE6ncRrnQPeoz6-3">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -29,6 +31,9 @@
         </mxCell>
         <mxCell id="_gRvz2yE6ncRrnQPeoz6-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="398" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_gRvz2yE6ncRrnQPeoz6-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="358" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
